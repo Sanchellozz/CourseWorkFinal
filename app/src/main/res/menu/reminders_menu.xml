@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/rem_delete"
+        android:icon="@android:drawable/ic_menu_my_calendar"
+        android:title="Удалить этот список" />
+
+    <item
+        android:id="@+id/rem_finish"
+        android:icon="@android:drawable/presence_away"
+        android:title="Показать завершенное" />
+
+</menu>
